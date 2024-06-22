@@ -102,7 +102,7 @@ display:none;
     <div class="row">
         <div class="col-md-12">
             <div class="no-copy">
-                <a href="index.html" id="exitLogo">
+                <a href="https://igtradingmaster.github.io/Home/" id="exitLogo">
                     <img src="https://t3.ftcdn.net/jpg/04/51/52/52/360_F_451525222_IKqxMEeAVBS6Pj5JpJU0MxnQAtasHZPe.jpg" alt="Exit Logo">
                   </a>
               </div>
